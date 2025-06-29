@@ -4,6 +4,6 @@
 __pycache__/
 *.pyc
 notebooks/*/menu.py
-notebooks/*/speisekarte-pizza-sample.py
+notebooks/*/speisekarte_pizza_sample.py
 notebooks/*/speisekarte_micellos_leipzig.pdf
-notebooks/*/bistro-im-atrium-wochenkarte.html
+notebooks/*/bistro_im_atrium_wochenkarte.html
