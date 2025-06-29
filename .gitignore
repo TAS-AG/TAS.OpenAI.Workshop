@@ -4,3 +4,4 @@
 __pycache__/
 *.pyc
 notebooks/*/menu.py
+notebooks/*/speisekarte-pizza-sample.py
