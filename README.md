@@ -1,8 +1,16 @@
 # TAS.OpenAI.Workshop
 
-1. GitHub Colab einrichten
-2. OpenAI API Schlüssel einrichten
-3. Notebook 1
-4. LM Studio und Hugging Face
-5. Notebook 2
-6. Notebook 3
+## 1. Grundlagen Open AI API und JSON
+
+
+
+## 2. GitHub Colab einrichten
+## 3. OpenAI API Schlüssel einrichten
+## 4. Notebook 1
+
+https://platform.openai.com/docs/api-reference/chat/create
+
+
+## 5. LM Studio und Hugging Face
+## 6. Notebook 2
+## 7. Notebook 3
